@@ -1,5 +1,5 @@
 ## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-:sassy_man: My name is Bruno. I'm a software engineer and I love what I do. 
+### :sassy_man: My name is Bruno. I'm a software engineer and I love what I do. 
 
 <!--
 **bruno78/bruno78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,13 +21,15 @@ Here are some ideas to get you started:
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="30"/> </a>
  </div>
 
-##
+<br>
 
 <div align="center">
   <a href="https://github.com/bruno78">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno78&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno78&layout=compact&langs_count=7&theme=bear"/>
 </div>
+  
+##
 
 <h4 align="center">☎️ Contact me:</h4>  
   <div align="center"><a align="center" href="https://www.linkedin.com/in/bgtavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
