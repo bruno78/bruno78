@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Android applications
 - 🌱 I’m currently learning how to integrate AR to Android projects
 - 👯 I’m looking to collaborate on anything fun
-- ⚡ Fun fact: I also ❤️ 🧑‍🍳 ✈️ 🎲🐉⚔️🏰🧙🏻‍♂️
+- ⚡ Fun facts: I also ❤️ 🧑‍🍳 ✈️ 🎲🐉⚔️🏰🧙🏻‍♂️
 
   
 <h3 align="left">Languages and Tools:</h3>
