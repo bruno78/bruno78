@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Android applications
 - 🌱 I’m currently learning how to integrate AR to Android projects
-- 👯 I’m looking to collaborate on anything fun
+- 👯 I’m opne to collaborate on anything fun
 - ⚡ Fun facts: I also ❤️ 🧑‍🍳 ✈️ 🎲🐉⚔️🏰🧙🏻‍♂️
 
   
