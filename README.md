@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="40" height="30" /> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="30"/> </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="30" height="40"/> </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="30"/> </a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="30"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="30"/> </a>
  </div>
 
